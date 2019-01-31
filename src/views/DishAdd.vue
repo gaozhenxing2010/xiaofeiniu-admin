@@ -1,5 +1,5 @@
 <template>
-  <div class="TableList">
-    <h1>TableList</h1>
+  <div class="">
+    <h1>DishAdd</h1>
   </div>
 </template>

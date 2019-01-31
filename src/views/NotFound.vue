@@ -4,11 +4,9 @@
   </div>
 </template>
 
-
 <style lang="scss">
-  .xfn-notfound{
-    text-align:center;
-    padding-top:200px;
-
+  .xfn-notfound {
+    text-align: center;
+    padding-top: 200px;
   }
 </style>
